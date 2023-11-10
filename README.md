@@ -6,6 +6,7 @@
 5) ตัวอย่าง https://p-phakphum.github.io/app/?apps=[URL ของ Web App จาก Google Apps Script]
 
 # Code ไฟล์ index.html
+<pre>
 <!DOCTYPE html>
 <html>
 <head>
@@ -36,3 +37,4 @@
   </script>
 </body>
 </html>
+<pre>
