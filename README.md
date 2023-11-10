@@ -5,7 +5,7 @@
 4) นำ URL ที่ได้มาใช้งาน ตามด้วยลิ้งค์ของ Web App จาก Google Apps Script
 5) ตัวอย่าง https://p-phakphum.github.io/app/?apps=[URL ของ Web App จาก Google Apps Script]
 
-# Code ไฟล์ index.html (ให้เข้าไปก็อปที่ไฟล์ index.html หรือใน code แต่ไม่เอา (<pre>) บรรทัดบนสุดกับล่างสุด
+# Code ไฟล์ index.html (ให้เข้าไปก็อปที่ไฟล์ index.html หรือใน code แต่ไม่เอาบรรทัดบนสุดกับล่างสุด
 <pre>
 <!DOCTYPE html>
 <html>
